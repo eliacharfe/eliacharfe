@@ -1,6 +1,6 @@
-Autodidact and a problem-solver with a great passion for new technologies. I cooperate well with others and adjust quickly to new environments. I am about to get my degree of B.Sc. Computer Science real soon (3rd year) and I am currently intending in an excellency academic program at school during my last year. Looking forward to starting a new role at the field and contribute my abilities
+Diligent and dedicated recent graduated developer. Eager to learn new skills and enthusiastic about new technologies. A selfdirected, quick learner and persistent creative problem solver. A cooperative individual with a positive outlook, seeking a challenging Software/Web Developer position
 
-Programming Languages: C/C++, C#, Python, Javascript, HTML and Java.
+Programming Languages: C/C++, C#, Python, Java., Javascript, SQL.
 Operating Systems: Windows, Linux.
 Languages: French, Hebrew and English.
 
