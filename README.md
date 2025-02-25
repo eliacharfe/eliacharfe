@@ -1,6 +1,2 @@
-Diligent and dedicated recent graduated developer. Eager to learn new skills and enthusiastic about new technologies. A self-directed, quick learner and persistent creative problem solver. A cooperative individual with a positive outlook, seeking a challenging Software/Web Developer position
-
-Programming Languages: C/C++, C#, Python, Java., Javascript, SQL.
-Operating Systems: Windows, Linux.
-Languages: French, Hebrew and English.
+I’m a passionate software developer currently dedicated to building high-quality apps, web apps, and websites for iOS, Android, and the Web. I specialize in crafting modern, scalable, and user-friendly solutions using the latest technologies and frameworks. Whether it's a sleek mobile app, a dynamic web platform, or a full-stack system, I thrive on turning ideas into reality with clean code and intuitive designs. Always eager to stay ahead of industry trends, I ensure that every project I work on is optimized for performance, security, and user experience.
 
