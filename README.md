@@ -17,7 +17,7 @@ With 3+ years of hands-on experience, I’ve developed and maintained complex en
 
 ## 🧠 What I Do
 
-- Architect scalable mobile applications (Swift / SwiftUI / Flutter)
+- Architect scalable mobile/web applications (Swift / SwiftUI / Flutter)
 - Design clean, modular, and testable codebases
 - Integrate backend services and cloud infrastructure
 - Implement AI-powered features and data-driven logic
