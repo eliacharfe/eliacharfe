@@ -1,7 +1,7 @@
 # Hi, I'm Eliachar Feig 👋
 
-### Senior Mobile Software Engineer  
-Specializing in **iOS (Swift / SwiftUI)** and **Flutter**
+### Senior Mobile & Full-Stack Engineer 
+Specializing in **iOS (Swift / SwiftUI)** **,Flutter** and **React**
 
 ---
 
