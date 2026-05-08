@@ -11,7 +11,7 @@ I’m a Senior Mobile Engineer focused on building scalable, production-grade mo
 
 I design and ship high-quality applications across **iOS, Android, and Web**, often integrating **AI-powered features** and modern cloud-based architectures to deliver intelligent, real-world solutions.
 
-With 3+ years of hands-on experience, I’ve developed and maintained complex enterprise systems for global brands — building products used daily by thousands of users under strict performance, reliability, and security requirements.
+With 3+ years of hands-on experience, I’ve developed and maintained complex enterprise systems for global brands - building products used daily by thousands of users under strict performance, reliability, and security requirements.
 
 ---
 
